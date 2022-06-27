@@ -16,9 +16,8 @@ else
     while(a>=1000)
     {
         a=a/10;
-        number3=a%10;
     }
-    
+    number3=a%10;
     Console.WriteLine(number3);
     }
    
